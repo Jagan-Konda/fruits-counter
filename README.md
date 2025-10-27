@@ -1,5 +1,10 @@
 In this project, let's build a **Fruits Counter** by applying the concepts we have learned till now.
 
+### 🌐 Deployment Link  
+🔗 **Live Demo:** [Click here to view the project](https://fruitsCount459.ccbp.tech)
+
+---
+
 ### Refer to the image below:
 
 <br/>
